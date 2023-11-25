@@ -1,5 +1,5 @@
---- Las condicionales en lua son como dice su nombre una herramienta para
---- ejecutar una parte u otra del codigo, se usan de la sigiente manera
+--- Una condicional es una estructura de control en programación que permite ejecutar diferentes 
+--- lineas de código dependiendo de una condición específica, aca un ejemplo:
 
 numero1 = 7 --- Definimos nuestros valores.
 numero2 = 27
