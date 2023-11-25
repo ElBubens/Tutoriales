@@ -18,7 +18,7 @@ end
 
 crearparte("Parte999", 0.5, "Neon", false)
 
---- Todos los parametros deben de ir separados con comas
+--- Todos los parametros deben de ir separados con ","
 --- Nuestros parametros de texto son el nombre y el material, los parametros de texto siempre van entre comillas ("").
 --- Nuestro parametro numerico es el de la transparencia, los parametros numericos no llevan comillas.
 --- Nuestro parametro booleano es el de anchored, los parametros booleanos son verdadero o falso (true o false) y no llevan comillas. 
