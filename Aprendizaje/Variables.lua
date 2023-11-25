@@ -1,5 +1,5 @@
---- Las variables son un espacio donde podemos almacenar dato, en especial hay 3 tipos, datos numericos, datos tipo texto y datos booleanos. 
---- Los booleanos son donde solo se puede guardar un true o un false. Por ejemplo:
+--- Una variable es un espacio de memoria que se utiliza para almacenar y manipular datos. 
+--- Puede ser accedida y modificada desde cualquier parte del código, siempre y cuando esté en el mismo ámbito o alcance.
 
 nombre = "Buben" --- VARIABLE TIPO TEXTO
 edad = "999" --- VARIABLE NUMERICA
