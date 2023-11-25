@@ -12,6 +12,7 @@ click.MouseClick:Connect(function () --- Hacemos la funcion de que si se le hace
 	objeto.Material =  Enum.Material.Neon --- Cambio de material a Neon.
 	objeto.Position =  Vector3.new(0, 10, 0) --- Cambio de posicion a (0, 10, 0).
 	objeto.Anchored = true --- Hacemos que el objeto no se pueda caer.
+	objeto.Name = "Hola" --- Cambiamos el nombre del objeto a "Hola".
 end)
 
 --- Estas son las propiedades, en un video las explicare mejor.
