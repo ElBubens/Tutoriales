@@ -2,7 +2,7 @@
 --- La sinstaxis basica de for in pairs es: 
 
 --- for i, v in pairs(tabla_o_objetos) do 
---- 	"lineas de codigo"
+--- 	"lineas de codigo" 
 --- end
 
 --- En la parte de i,v es la manera mas comun de utilizar el codigo para ahorrar tiempo, "i" representa el indice que es el numero de parte u objeto por
@@ -13,7 +13,7 @@
 
 --- En el siguiente ejemplo haremos que se recorra sobre los elementos de un folder que contiene partes:
 
-local partes = game.Workspace.Partes:GetChildren() --- Aca definimos que se obtengan todos los objetos dentro de partes
+local partes = game.Workspace.Partes:GetChildren() --- Aca definimos que se obtengan todos los objetos dentro de partes, es otro metodo que no vimos :(
 
 for i, v in pairs(partes) do
 	wait(0.5)
