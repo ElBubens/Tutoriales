@@ -1,4 +1,4 @@
---- En Lua, las tablas son una estructura de datos versátil y fundamental. Las tablas se utilizan para almacenar y organizar conjuntos 
+---- En Lua, las tablas son una estructura de datos versátil y fundamental. Las tablas se utilizan para almacenar y organizar conjuntos 
 --- de datos en Roblox. Pueden contener múltiples valores de diferentes tipos, como números, cadenas, funciones e incluso otras tablas.
 --- Asi es como se crearia una tabla:
 
