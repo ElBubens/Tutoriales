@@ -5,7 +5,7 @@ nombre = "Buben" --- VARIABLE TIPO TEXTO
 edad = "999" --- VARIABLE NUMERICA
 suscriptores = 16 --- VARIABLE NUMERICA
 
---- Ahora este es un ejemplo de unas pocas lineas de codigo para decir que Buben tiene 999 años y 16 suscriptores.
+---Ahora este es un ejemplo de unas pocas lineas de codigo para decir que Buben tiene 999 años y 16 suscriptores.
 
 print("Se llama", nombre, "su edad es", edad, "años, y tiene", suscriptores, "suscriptores")
 
