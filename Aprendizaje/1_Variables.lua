@@ -1,9 +1,9 @@
 -- Una variable es un espacio de memoria que se utiliza para almacenar y manipular datos. 
 -- Puede ser accedida y modificada desde cualquier parte del código, siempre y cuando esté en el mismo ámbito o alcance.
 
-nombre = "Buben" --- VARIABLE TIPO TEXTO
-edad = "999" --- VARIABLE NUMERICA
-suscriptores = 16 --- VARIABLE NUMERICA
+nombre = "Buben" -- VARIABLE TIPO TEXTO
+edad = "999" -- VARIABLE NUMERICA
+suscriptores = 16 -- VARIABLE NUMERICA
 
 -- Ahora este es un ejemplo de unas pocas lineas de codigo para decir que Buben tiene 999 años y 16 suscriptores.
 
