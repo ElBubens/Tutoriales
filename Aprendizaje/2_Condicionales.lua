@@ -1,5 +1,5 @@
---- Una condicional es una estructura de control en programación que permite ejecutar diferentes 
---- lineas de código dependiendo de una condición específica, aca un ejemplo:
+-- Una condicional es una estructura de control en programación que permite ejecutar diferentes 
+-- lineas de código dependiendo de una condición específica, aca un ejemplo:
 
 numero1 = 7 --- Definimos nuestros valores.
 numero2 = 27
@@ -12,10 +12,10 @@ elseif numero1 == numero2 then --- Si ninguna de las condiciones anteriores se c
     print(numero1, "y", numero2, "son iguales.") --- Se ejecuta este codigo.
 end
 
---- Todos los codigos que se ejecutarian es caso de las condiciones serian textos que aparecerian en la consola.
+-- Todos los codigos que se ejecutarian es caso de las condiciones serian textos que aparecerian en la consola.
 
---- Nota: Esta seccion del GitHub es solo APRENDIZAJE, no te recomiendo utilizar estos scripts a menos de que sea necesario,
---- pero  si quieres utilizarlos, adelante! :D.  Si tienes alguna duda enviamela en los comentarios del canal.
+-- Nota: Esta seccion del GitHub es solo APRENDIZAJE, no te recomiendo utilizar estos scripts a menos de que sea necesario,
+-- pero  si quieres utilizarlos, adelante! :D.  Si tienes alguna duda enviamela en los comentarios del canal.
 
 --██████╗ ██╗   ██╗       ██████╗ ██╗   ██╗██████╗ ███████╗███╗   ██╗███████╗
 --██╔══██╗╚██╗ ██╔╝██╗    ██╔══██╗██║   ██║██╔══██╗██╔════╝████╗  ██║██╔════╝
