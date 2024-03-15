@@ -26,7 +26,7 @@
 --
 
 - **Explora las categorías:** Encuentra el tipo de script que necesitas.
-- **Descarga el script****:** Haz clic en el archivo .lua para descargarlo.
+- **Descarga el script:** Haz clic en el archivo .lua para descargarlo.
 - **Importa el script a Roblox Studio:** Abre el script en Roblox Studio y haz clic en "Insertar".
 - **Personaliza el script:** Modifica el script a tu gusto para adaptarlo a tu proyecto.
 - **¡Diviértete! Experimenta con los scripts y aprende a programar en Lua.**
